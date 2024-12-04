@@ -1,0 +1,9 @@
+<div class="step-text">
+<p></p>
+<p>What is the size of the map without overriding <code class="language-java">hashcode()</code> or <code class="language-java">equals()</code>?</p>
+<pre><code class="language-java">    Map&lt;Person, Integer&gt; map = new HashMap();
+    map.put(new Person("James Gosling"), 1995);
+    map.put(new Person("James Gosling"), 1995);
+
+    System.out.println(map.size());</code></pre>
+</div>

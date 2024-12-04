@@ -1,0 +1,56 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Learning Progress Tracker (Java)/*
+!/Learning Progress Tracker (Java)/task/
+/Learning Progress Tracker (Java)/task/*
+!/Learning Progress Tracker (Java)/task/src
+!/Learning Progress Tracker (Java)/task/test
+!/Learning Progress Tracker (Java)/task/build.gradle
+
+# Project exclude paths
+/Topics/Choosing the right collection/Even numbers go first/out/
+/Topics/Choosing the right collection/Even numbers go first/out/production/classes/
+/Topics/Choosing the right collection/Multiset/out/
+/Topics/Choosing the right collection/Multiset/out/production/classes/
+/Topics/Choosing the right collection/Removing duplicates and sorting/out/
+/Topics/Choosing the right collection/Removing duplicates and sorting/out/production/classes/
+/Topics/Choosing the right collection/Substitution cipher/out/
+/Topics/Choosing the right collection/Substitution cipher/out/production/classes/
+/Topics/Choosing the right collection/War and Peace/out/
+/Topics/Choosing the right collection/War and Peace/out/production/classes/
+/Topics/Comparator/Most valuable items/out/
+/Topics/Comparator/Most valuable items/out/production/classes/
+/Topics/Comparator/Multiple fields/out/
+/Topics/Comparator/Multiple fields/out/production/classes/
+/Topics/Comparator/Odd and even/out/
+/Topics/Comparator/Odd and even/out/production/classes/
+/Topics/hashCode() and equals() in Collections/Duplicate elements in HashSet/out/
+/Topics/hashCode() and equals() in Collections/Duplicate elements in HashSet/out/production/classes/
+/Topics/HashMap/Remove long names/out/
+/Topics/HashMap/Remove long names/out/production/classes/
+/Topics/Lambda expressions/Apply function to all elements/out/
+/Topics/Lambda expressions/Apply function to all elements/out/production/classes/
+/Topics/Lambda expressions/Lambda check for divisibility by 3 and 5/out/
+/Topics/Lambda expressions/Lambda check for divisibility by 3 and 5/out/production/classes/
+/Topics/Lambda expressions/Next even number/out/
+/Topics/Lambda expressions/Next even number/out/production/classes/
+/Topics/LinkedList vs. ArrayList/Remove the same/out/
+/Topics/LinkedList vs. ArrayList/Remove the same/out/production/classes/
+/Topics/Method references/Ascending and descending sorting/out/
+/Topics/Method references/Ascending and descending sorting/out/production/classes/
+/Topics/Parameterized test/Palindromes/out/
+/Topics/Parameterized test/Palindromes/out/production/classes/
+/Topics/Regexes in programs/Card name validation and identification/out/
+/Topics/Regexes in programs/Card name validation and identification/out/production/classes/
+/Topics/The Collections framework overview/Sorting the digits of an integer in ascending order/out/
+/Topics/The Collections framework overview/Sorting the digits of an integer in ascending order/out/production/classes/
